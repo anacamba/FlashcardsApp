@@ -3,7 +3,7 @@
 ## Lab 1
 
 ### App Description
-`TODO://` Add app description
+`TODO://` This app serves as a fun study flashcard in which the user can practice a scientific question and see if they got it right.
 
 ### App Walk-though
 
