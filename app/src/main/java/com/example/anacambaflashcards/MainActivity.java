@@ -21,6 +21,18 @@ public class MainActivity extends AppCompatActivity {
                 flashcardQuestion.setVisibility(View.INVISIBLE);
                 flashcardAnswer.setVisibility(View.VISIBLE);
             }
+
+            });
+
+        findViewById(R.id.flashcard_answer_textview).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                // change back to question flashcard
+                ((TextView) findViewById(R.id.flashcard_answer_textview)).setVisibility(View.INVISIBLE);
+                ((TextView) findViewById(R.id.flashcard_question_textview)).setVisibility(View.VISIBLE);
+            }
         });
+
+
     }
 }

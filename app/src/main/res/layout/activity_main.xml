@@ -9,6 +9,7 @@
     <TextView
         android:id="@+id/flashcard_question_textview"
         android:layout_width="match_parent"
+        android:layout_centerInParent="true"
         android:layout_height="200dp"
         android:background="@drawable/shape"
         android:gravity="center"
@@ -19,6 +20,7 @@
     <TextView
         android:id="@+id/flashcard_answer_textview"
         android:layout_width="match_parent"
+        android:layout_centerInParent="true"
         android:layout_height="200dp"
         android:gravity="center"
         android:background="@drawable/shapes2"
