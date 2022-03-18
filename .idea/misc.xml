@@ -3,8 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/anacr/AndroidStudioProjects/AnaCambaFlashcards/app/src/main/res/drawable/icon_add.xml" value="0.37916666666666665" />
+        <entry key="..\:/Users/anacr/AndroidStudioProjects/AnaCambaFlashcards/app/src/main/res/drawable/icon_cancel.xml" value="0.32592592592592595" />
         <entry key="..\:/Users/anacr/AndroidStudioProjects/AnaCambaFlashcards/app/src/main/res/drawable/shape.xml" value="0.18871794871794872" />
         <entry key="..\:/Users/anacr/AndroidStudioProjects/AnaCambaFlashcards/app/src/main/res/drawable/shapes2.xml" value="0.18871794871794872" />
+        <entry key="..\:/Users/anacr/AndroidStudioProjects/AnaCambaFlashcards/app/src/main/res/layout/activity_add_card.xml" value="0.36302083333333335" />
         <entry key="..\:/Users/anacr/AndroidStudioProjects/AnaCambaFlashcards/app/src/main/res/layout/activity_main.xml" value="0.1" />
       </map>
     </option>
