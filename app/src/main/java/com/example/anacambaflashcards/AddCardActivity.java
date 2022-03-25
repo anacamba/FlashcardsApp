@@ -44,11 +44,8 @@ public class AddCardActivity extends AppCompatActivity {
             }
         });
 
-
-
-
-
-
+        flashcardDatabase = new FlashcardDatabase(getApplicationContext());
 
     }
+    FlashcardDatabase flashcardDatabase;
 }
