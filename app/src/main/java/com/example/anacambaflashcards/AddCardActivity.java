@@ -22,6 +22,10 @@ public class AddCardActivity extends AppCompatActivity {
                 Intent intent = new Intent(AddCardActivity.this, MainActivity.class);
                 AddCardActivity.this.startActivity(intent);
                 finish();
+
+                Intent i = new Intent(AddCardActivity.this, MainActivity.class);
+                startActivity(i);
+                overridePendingTransition(R.anim.right_in, R.anim.left_out);
             }
         });
 
@@ -39,7 +43,9 @@ public class AddCardActivity extends AppCompatActivity {
                 setResult(RESULT_OK, data);
                 finish();
 
-
+                Intent i = new Intent(AddCardActivity.this, MainActivity.class);
+                startActivity(i);
+                overridePendingTransition(R.anim.right_in, R.anim.left_out);
 
             }
         });
