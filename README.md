@@ -3,7 +3,7 @@
 ## Lab 4
 
 ### App Description
-`TODO://` This app serves as a fun study flashcard in which the user can practice a scientific question and see if they got it right. 
+`TODO://` This app contains animated and custome styled flashcards as a fun way to study and practice any topic of interest. 
 
 ### App Walk-though
 
